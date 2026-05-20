@@ -210,8 +210,7 @@ Project_7/
 ├── RNN_dale.ipynb
 ├── RNN_no_dale.ipynb
 │
-├── README.md
-└── Explanation.docx
+└── README.md
 ```
 
 ---
